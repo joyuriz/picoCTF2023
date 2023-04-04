@@ -13,10 +13,15 @@ Password: `password`
 ## Solution
 1. SSH to the server.
 2. List the files
+   
     ![](/attachments/useless1.png)
+
 3. Read useless file
+
     ![](/attachments/useless2.png)
+
 4. Read manual
+
     ![](/attachments/useless3.png)
 
 
